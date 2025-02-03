@@ -3,7 +3,7 @@
   <metadata>
     <id>lsstudio</id>
     <version>0.3.9</version>
-    <title>Discover, download, and run local LLMs</title>
+    <title>LM Studio Discover, download, and run local LLMs</title>
     <authors>LM Studio</authors>
     <owners>Mohammad Abu Mattar</owners>
     <licenseUrl>https://lmstudio.ai/terms</licenseUrl>
