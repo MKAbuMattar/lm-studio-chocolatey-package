@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>lsstudio</id>
+    <id>lmstudio</id>
     <version>0.3.9</version>
     <title>LM Studio Discover, download, and run local LLMs</title>
     <authors>LM Studio</authors>
