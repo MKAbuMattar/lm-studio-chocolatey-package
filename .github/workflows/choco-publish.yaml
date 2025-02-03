@@ -28,6 +28,7 @@ jobs:
           choco pack
           $package = Get-ChildItem -Path . -Filter "*.nupkg"
           Write-Host "Package packed: $($package.FullName)"
+        shell: pwsh
 
       - name: Set up Chocolatey for Push
         if: github.ref == 'refs/heads/main'
