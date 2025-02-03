@@ -26,9 +26,8 @@ jobs:
       - name: Pack Chocolatey Package
         run: |
           choco pack
-          $package = Get-ChildItem -Path . -Filter "*.nupkg"
+          $package = Get-ChildItem -Path . -Filter "lsstudio*.nupkg"
           Write-Host "Package packed: $($package.FullName)"
-        shell: pwsh
 
       - name: Set up Chocolatey for Push
         if: github.ref == 'refs/heads/main'
@@ -38,7 +37,7 @@ jobs:
       - name: Push Chocolatey Package
         if: github.ref == 'refs/heads/main'
         run: |
-          $package = Get-ChildItem -Path . -Filter "*.nupkg" -Name
+          $package = Get-ChildItem -Path . -Filter "lsstudio*.nupkg" -Name
           choco push "$package" --source 'https://push.chocolatey.org/' -apiKey ${{ secrets.CHOCO_API_KEY }}
         env:
           CHOCO_API_KEY: ${{ secrets.CHOCO_API_KEY }}
