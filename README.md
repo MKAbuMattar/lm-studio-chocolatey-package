@@ -23,7 +23,7 @@
 To install LM Studio, run the following command from the command line or from PowerShell:
 
 ```powershell
-choco install lm-studio
+choco install lmstudio
 ```
 
 This command will download the LM Studio installer from the official website and execute it silently.
