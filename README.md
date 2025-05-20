@@ -4,6 +4,12 @@
   <a href="https://github.com/MKAbuMattar/lm-studio-chocolatey-package">
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://community.chocolatey.org/packages/lmstudio">
+    <img src="https://img.shields.io/chocolatey/v/lmstudio?color=blue&label=chocolatey&logo=chocolatey&style=for-the-badge" alt="lmstudio on Chocolatey"/>
+  </a>
+  <a href="https://community.chocolatey.org/packages/lmstudio">
+    <img src="https://img.shields.io/chocolatey/dt/lmstudio?color=blue&label=chocolatey&logo=chocolatey&style=for-the-badge" alt="lmstudio Downloads"/>
+  </a>
   <a href="https://github.com/MKAbuMattar/lm-studio-chocolatey-package/stargazers">
     <img src="https://img.shields.io/github/stars/MKAbuMattar/lm-studio-chocolatey-package.svg?style=for-the-badge" alt="GitHub Stars"/>
   </a>
@@ -76,4 +82,4 @@ Visit the [System Requirements](https://lmstudio.ai/docs/system-requirements) pa
 
 ## Stay Updated
 
-🚀 New in 0.3.15: `reasoning_content` in API responses and Idle TTL! Read the [announcement](https://lmstudio.ai/blog/lmstudio-v0.3.15).
+🚀 New in 0.3.10: `reasoning_content` in API responses and Idle TTL! Read the [announcement](https://lmstudio.ai/blog/lmstudio-v0.3.10).
