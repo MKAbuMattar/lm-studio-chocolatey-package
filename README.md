@@ -82,4 +82,4 @@ Visit the [System Requirements](https://lmstudio.ai/docs/system-requirements) pa
 
 ## Stay Updated
 
-🚀 New in 0.3.10: `reasoning_content` in API responses and Idle TTL! Read the [announcement](https://lmstudio.ai/blog/lmstudio-v0.3.10).
+🚀 New in 0.3.16: `reasoning_content` in API responses and Idle TTL! Read the [announcement](https://lmstudio.ai/blog/lmstudio-v0.3.16).
