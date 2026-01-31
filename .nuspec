@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>lmstudio</id>
-    <version>0.4.0</version>
+    <version>0.4.1</version>
     <title>LM Studio Discover, download, and run local LLMs</title>
     <authors>LM Studio</authors>
     <owners>Mohammad Abu Mattar</owners>
@@ -71,10 +71,10 @@ Visit the [System Requirements](https://lmstudio.ai/docs/system-requirements) pa
 
 ## Stay Updated
 
-🚀 New in 0.4.0: [announcement](https://lmstudio.ai/blog/lmstudio-v0.4.0).
+🚀 New in 0.4.1: [announcement](https://lmstudio.ai/blog/lmstudio-v0.4.1).
     ]]></description>
     <summary>LM Studio is a desktop application that allows you to run large language models (LLMs) on your laptop, entirely offline.</summary>
-    <releaseNotes>https://lmstudio.ai/blog/lmstudio-v0.4.0</releaseNotes>
+    <releaseNotes>https://lmstudio.ai/blog/lmstudio-v0.4.1</releaseNotes>
     <tags>lm-studio ai llm ollama</tags>
     <packageSourceUrl>https://github.com/MKAbuMattar/lm-studio-chocolatey-package</packageSourceUrl>
     <docsUrl>https://lmstudio.ai/docs/app</docsUrl>
