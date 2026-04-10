@@ -82,4 +82,4 @@ Visit the [System Requirements](https://lmstudio.ai/docs/system-requirements) pa
 
 ## Stay Updated
 
-🚀 New in 0.4.9: Read the [announcement](https://lmstudio.ai/blog/lmstudio-v0.4.9).
+🚀 New in 0.4.10: Read the [announcement](https://lmstudio.ai/blog/lmstudio-v0.4.10).
